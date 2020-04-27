@@ -887,17 +887,17 @@ If you need more detail on this subject, see "Sorting" section in [Additional De
 Graphs can be used to represent many problems in computer science, so this section is long, like trees and sorting were.
 
 - Notes:
-    - There are 4 basic ways to represent a graph in memory:
-        - objects and pointers
-        - adjacency matrix
-        - adjacency list
-        - adjacency map
+    - [X] There are 4 basic ways to represent a graph in memory:
+        - [X] objects and pointers
+        - [X] adjacency matrix
+        - [X] adjacency list
+        - [X] adjacency map
     - Familiarize yourself with each representation and its pros & cons
     - BFS and DFS - know their computational complexity, their tradeoffs, and how to implement them in real code
     - When asked a question, look for a graph-based solution first, then move on if none.
 
 - [ ] MIT(videos):
-    - [ ] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
+    - [X] [Breadth-First Search](https://www.youtube.com/watch?v=s-CYnVz-uh4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=13)
     - [ ] [Depth-First Search](https://www.youtube.com/watch?v=AfSk24UTFS8&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=14)
 
 - [ ] Skiena Lectures - great intro:
