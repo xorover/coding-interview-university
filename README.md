@@ -535,6 +535,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [X] [Cheat sheet](http://bigocheatsheet.com/)
+- [ ] [Big O notation (wiki)](https://en.wikipedia.org/wiki/Big_O_notation)
 
 
 </details>
